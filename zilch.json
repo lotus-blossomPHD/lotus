@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Lotus",
+  "avatar": "aamaWZmEhoaa_biGe",
+  "preferredColor": "red",
+  "language": "python.3",
+  "game": "table-tennis",
+  "run": "python3 -u ./main.py"
+}
